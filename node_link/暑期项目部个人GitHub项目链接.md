@@ -9,7 +9,7 @@
 | 5 | [张亚军](https://github.com/zhangya-jun/zhangyajun) |
 | 6 | [程向东](https://github.com/chenchushenshiweishen/chengxiangdong) |
 | 7 | [刘志华](https://github.com/Chinaboyis/liuzhihua) |
-| 8 | [邵馨冉](https://github.com/shaoxinran/shaoxinran) |
+| 8 | [邵馨冉](https://github.com/shaoxinran/github/blob/master/%E7%AC%94%E8%AE%B0.md) |
 | 9 | [崔愉烽](https://github.com/c3225785/cuiyufeng) |
 | 10 | [龙小宇](https://github.com/XiaoYu1223/pink) |
 | 11 | [高彬](https://github.com/GreenCthulhu/Note) |
@@ -26,6 +26,8 @@
 | 22 | [王平](https://github.com/Wrysunnyy/ll/blob/master/%E7%AC%94%E8%AE%B0.md) |
 | 23 | [李妍](https://github.com/liyan256/biji/blob/master/%E7%AC%94%E8%AE%B0.md) |
 | 24 | [闫姝莉](https://github.com/YanShuli0408/biji.git) |
-| 25 | [李佳源](https://github.com/yuandada123/ljy-bj) |
-| 26 | [李好](https://github.com/Li-hao666/bj.lh.git) |
+| 25 | [李佳媛](https://github.com/yuandada123/ljy-bj) |
+| 26 | [李好](https://github.com/Li-hao666/bjzxd.git) |
 | 27 | [苏振军](https://github.com/sh1124/bj.git) |
+| 28 | [赵子琪](https://github.com/zhaoziqi02/note/tree/master) |
+| 29 | [李玉莹](https://github.com/lyy010927/liyuying) |
